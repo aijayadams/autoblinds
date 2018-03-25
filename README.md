@@ -19,6 +19,8 @@ In one of my earlier blind-brackets I used a [NEMA17](https://www.thingiverse.co
 
 The gear I've provided here is a perfect match to the chain my blinds use. Not being an expert on the topic, I don't know how likely it is that you'll be able to reuse this part with any success.
 
+![](img/gear.PNG)
+
 ### The bracket
 
 There are two versions of the bracket included, the first, OpenSCAD based model is a minimal simple bracket for holding the NEAM17 and gear.
