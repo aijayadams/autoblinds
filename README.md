@@ -45,4 +45,4 @@ After some experimentation I learned what was perhaps the very clear and inevita
 
 ## Alexa SmartHome Skill
 
-This part is only interesting if you have grown so dependent on your Amazon Alexa that you can't imagine having to reach for a device to control your smart devices anymore. I put this in it's own [README](https://github.com/aijayadams/autoblinds/alexa-smarthome/) if you're interested.
+This part is only interesting if you have grown so dependent on your Amazon Alexa that you can't imagine having to reach for a device to control your smart devices anymore. I put this in it's own [README](https://github.com/aijayadams/autoblinds/tree/master/alexa-smarthome) if you're interested.
